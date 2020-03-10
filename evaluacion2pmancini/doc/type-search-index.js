@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cl.awakelab.ejecutable","l":"Ejecutable"},{"p":"cl.awakelab.clases","l":"Electrodomestico"},{"p":"cl.awakelab.clases","l":"Lavadora"},{"p":"cl.awakelab.clases","l":"Television"}]
